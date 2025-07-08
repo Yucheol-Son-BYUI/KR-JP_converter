@@ -1,1 +1,3 @@
-﻿  KR-JP_converter.vcxproj -> D:\Yucheol\BYUI\Spring_Semester_2025\CSE310\Sprint5\KR-JP_converter\x64\Debug\KR-JP_converter.dll
+﻿  hangul2kana.cpp
+D:\Yucheol\BYUI\Spring_Semester_2025\CSE310\Sprint5\KR-JP_converter\KR-JP_converter\hangul2kana.cpp(128,1): warning C4715: 'mapInitialRow': not all control paths return a value
+  KR-JP_converter.vcxproj -> D:\Yucheol\BYUI\Spring_Semester_2025\CSE310\Sprint5\KR-JP_converter\x64\Debug\KR-JP_converter.dll
